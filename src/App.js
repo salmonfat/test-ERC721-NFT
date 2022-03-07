@@ -74,7 +74,7 @@ function App() {
     <main>
       {error &&<p>{error}</p>}
       <h2>test ERC721 NFT (On Rinkeby testnet)</h2>
-      <p>Please view it on Opensea testnet: </p>
+      <p>Please view it on Opensea testnet: https://testnets.opensea.io/collection/testnft-vmcpkvxiqh</p>
       <p>The contract address: 0x0fBfd9a0bE050124AFD4Ae463e6d7Ad5D00a19bc</p>
       <div>
         {isWallectConnect &&(<p>your address:{yourWalletAddress} </p>)}
